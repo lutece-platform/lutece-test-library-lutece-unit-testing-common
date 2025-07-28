@@ -38,15 +38,12 @@
 
     <properties>
         <serverUrl>dev.lutece.paris.fr</serverUrl>
-        <jiraBaseUrl>http://dev.lutece.paris.fr/jira</jiraBaseUrl>
-        <jiraProjectName>TODO</jiraProjectName>
-        <jiraComponentId>TODO</jiraComponentId>
     </properties>
 
     <scm>
-        <connection>TODO</connection>
-        <developerConnection>TODO</developerConnection>
-        <url>TODO</url>
+        <connection>scm:git:https://github.com/lutece-platform/lutece-test-library-lutece-unit-testing-common.git</connection>
+        <developerConnection>scm:git:https://github.com/lutece-platform/lutece-test-library-lutece-unit-testing-common.git</developerConnection>
+        <url>https://github.com/lutece-platform/lutece-test-library-lutece-unit-testing-common.git</url>
       <tag>HEAD</tag>
   </scm>
 
